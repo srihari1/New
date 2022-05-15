@@ -1,0 +1,469 @@
+29-04-2022 16:43:07 INFO [ARC_Login]: Entering Username in login username field
+29-04-2022 16:43:07 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='okta-signin-username']
+29-04-2022 16:43:10 INFO [ARC_Login]: Entering password in login password field
+29-04-2022 16:43:11 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='okta-signin-password']
+29-04-2022 16:43:14 INFO [ARC_Login]: clicked on Signon Button
+29-04-2022 16:43:14 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //input[@id='okta-signin-submit']]
+29-04-2022 16:43:14 INFO [WebFunctionLibrary]: clicked on element By.xpath: //input[@id='okta-signin-submit']
+29-04-2022 16:43:17 INFO [ARC_Login]: Click on send push button
+29-04-2022 16:43:17 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@class='o-form-button-bar']/input]
+29-04-2022 16:43:17 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@class='o-form-button-bar']/input
+29-04-2022 16:43:20 INFO [ARC_Login]: clicked on Proceed button in login screen
+29-04-2022 16:43:41 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //input[@id='cmdLogin']]
+29-04-2022 16:43:47 INFO [WebFunctionLibrary]: clicked on element By.xpath: //input[@id='cmdLogin']
+29-04-2022 16:43:51 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi0']]
+29-04-2022 16:43:51 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi0']
+29-04-2022 16:43:54 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@id='side-menu-wrap']/ul[@id='sm0']/li)[11]]
+29-04-2022 16:43:57 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@id='side-menu-wrap']/ul[@id='sm0']/li)[11]
+29-04-2022 16:44:01 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi2']/a]
+29-04-2022 16:44:01 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi2']/a
+29-04-2022 16:44:04 INFO [WebFunctionLibrary]: Hover on element By.xpath: //div[@id='side-menu-wrap']//ul//li[@id='mi2-1']/a
+29-04-2022 16:44:04 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@id='side-menu-wrap']//ul[@id='sm2-1']//li)[1]/a]
+29-04-2022 16:44:06 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@id='side-menu-wrap']//ul[@id='sm2-1']//li)[1]/a
+29-04-2022 16:44:09 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:44:10 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //textarea[@id='Notes_TextBox']
+29-04-2022 16:44:13 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='YsiPageButtons1_SaveButton_Button']]
+29-04-2022 16:44:14 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='YsiPageButtons1_SaveButton_Button']
+29-04-2022 16:44:17 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@id='grdCharge_DataGridContainer']//img)[1]]
+29-04-2022 16:44:19 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@id='grdCharge_DataGridContainer']//img)[1]
+29-04-2022 16:44:22 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //a[@id='PersonId_LookupLink']]
+29-04-2022 16:44:25 INFO [WebFunctionLibrary]: clicked on element By.xpath: //a[@id='PersonId_LookupLink']
+29-04-2022 16:44:28 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:44:28 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //tr[@id='row39']/td/input]
+29-04-2022 16:44:28 INFO [WebFunctionLibrary]: clicked on element By.xpath: //tr[@id='row39']/td/input
+29-04-2022 16:44:32 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdOK_Button']]
+29-04-2022 16:44:32 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdOK_Button']
+29-04-2022 16:44:35 INFO [WebFunctionLibrary]: Switch to default content
+29-04-2022 16:44:35 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:44:35 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='grdDetail_DataTable_row0_ChargeCodeIdLookup_ChargeCodeId_Button']]
+29-04-2022 16:44:35 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='grdDetail_DataTable_row0_ChargeCodeIdLookup_ChargeCodeId_Button']
+29-04-2022 16:44:38 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:44:38 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //tr[@id='row9']/td/input]
+29-04-2022 16:44:39 INFO [WebFunctionLibrary]: clicked on element By.xpath: //tr[@id='row9']/td/input
+29-04-2022 16:44:42 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdOK_Button']]
+29-04-2022 16:44:42 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdOK_Button']
+29-04-2022 16:44:45 INFO [WebFunctionLibrary]: Switch to default content
+29-04-2022 16:44:45 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:44:45 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='grdDetail_DataTable_row0_Amount']
+29-04-2022 16:44:48 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //textarea[@id='grdDetail_DataTable_row0_Notes']
+29-04-2022 16:44:52 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdSave_Button']]
+29-04-2022 16:44:53 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdSave_Button']
+29-04-2022 16:44:56 INFO [WebFunctionLibrary]: Get Window ID 
+29-04-2022 16:44:56 INFO [WebFunctionLibrary]: Switch to default content
+29-04-2022 16:44:56 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi2']/a]
+29-04-2022 16:44:56 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi2']/a
+29-04-2022 16:45:00 INFO [WebFunctionLibrary]: Hover on element By.xpath: //div[@id='side-menu-wrap']//ul//li[@id='mi2-1']/a
+29-04-2022 16:45:00 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@id='side-menu-wrap']//ul[@id='sm2-1']//li)[2]/a]
+29-04-2022 16:45:01 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@id='side-menu-wrap']//ul[@id='sm2-1']//li)[2]/a
+29-04-2022 16:45:04 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:45:04 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdFind_Button']]
+29-04-2022 16:45:06 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdFind_Button']
+29-04-2022 16:45:09 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:09 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:09 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:10 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:10 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:10 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:10 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:10 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:10 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:21 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:45:25 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //tr[@id='grdCharge_DataTable_row0']//button]
+29-04-2022 16:45:26 INFO [WebFunctionLibrary]: clicked on element By.xpath: //tr[@id='grdCharge_DataTable_row0']//button
+29-04-2022 16:45:29 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@class='fnBtnContainerDIV']//a)[1]]
+29-04-2022 16:45:29 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@class='fnBtnContainerDIV']//a)[1]
+29-04-2022 16:45:32 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@class='fnBtnContainerDIV']//a)[2]]
+29-04-2022 16:45:33 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@class='fnBtnContainerDIV']//a)[2]
+29-04-2022 16:45:36 INFO [WebFunctionLibrary]: Switched to window CDwindow-2472D9EFBFDF0501C14037D2DC5122AA
+29-04-2022 16:45:36 INFO [WebFunctionLibrary]: Switched to window CDwindow-006F6DDF7C8E64C47CC79AB36148BB50
+29-04-2022 16:45:36 INFO [WebFunctionLibrary]: Get Window ID 
+29-04-2022 16:45:36 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='btnUpload_Button']]
+29-04-2022 16:45:36 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='btnUpload_Button']
+29-04-2022 16:45:39 INFO [WebFunctionLibrary]: Switched to child window CDwindow-2472D9EFBFDF0501C14037D2DC5122AA
+29-04-2022 16:45:39 INFO [WebFunctionLibrary]: Switched to child window CDwindow-006F6DDF7C8E64C47CC79AB36148BB50
+29-04-2022 16:45:39 INFO [WebFunctionLibrary]: Switched to child window CDwindow-E9D2D4AAB5593D5FE54CF4EE30C46290
+29-04-2022 16:45:43 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='btnSave_Button']]
+29-04-2022 16:45:45 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='btnSave_Button']
+29-04-2022 16:45:48 INFO [WebFunctionLibrary]: closed window 
+29-04-2022 16:45:48 INFO [WebFunctionLibrary]: Switched to window CDwindow-2472D9EFBFDF0501C14037D2DC5122AA
+29-04-2022 16:45:48 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:45:48 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@class='secondary-btn']/a]
+29-04-2022 16:45:49 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@class='secondary-btn']/a
+29-04-2022 16:45:52 INFO [WebFunctionLibrary]: Switch to default content
+29-04-2022 16:45:52 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi9']]
+29-04-2022 16:45:52 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi9']
+29-04-2022 16:45:55 INFO [WebFunctionLibrary]: Hover on element By.xpath: //div[@id='side-menu-wrap']//ul[@id='sm9']//li[@id='mi9-1']
+29-04-2022 16:45:56 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@id='side-menu-wrap']//ul[@id='sm9-1']//li]
+29-04-2022 16:45:58 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@id='side-menu-wrap']//ul[@id='sm9-1']//li
+29-04-2022 16:46:01 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:46:01 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@id='filterDiv']//tbody//tr[8]//input]
+29-04-2022 16:46:01 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@id='filterDiv']//tbody//tr[8]//input
+29-04-2022 16:46:04 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='PageButtons_NewButton_Button']]
+29-04-2022 16:46:05 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='PageButtons_NewButton_Button']
+29-04-2022 16:46:08 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='Code_TextBox']
+29-04-2022 16:46:11 INFO [WebFunctionLibrary]: Select Drop Down By.xpath: //select[@id='TaxAuthority_DropDownList']
+29-04-2022 16:46:11 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='YsiButtonSubmit_Button']]
+29-04-2022 16:46:12 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='YsiButtonSubmit_Button']
+29-04-2022 16:46:16 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='AddressBlock_Address1']
+29-04-2022 16:46:19 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='AddressBlock_City']
+29-04-2022 16:46:22 INFO [WebFunctionLibrary]: Select Drop Down By.xpath: //select[@id='AddressBlock_State']
+29-04-2022 16:46:22 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='AddressBlock_ZipCode']
+29-04-2022 16:46:25 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //textarea[@id='Notes_TextBox']
+29-04-2022 16:46:28 INFO [WebFunctionLibrary]: Select Drop Down By.xpath: //select[@id='VatTranType_DropDownList']
+29-04-2022 16:46:28 INFO [WebFunctionLibrary]: Select Drop Down By.xpath: //select[@id='PurVatTranType_DropDownList']
+29-04-2022 16:46:28 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='RegistrationNumber_TextBox']
+29-04-2022 16:46:32 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //input[@id='VatRegistered_CheckBox']]
+29-04-2022 16:46:32 INFO [WebFunctionLibrary]: clicked on element By.xpath: //input[@id='VatRegistered_CheckBox']
+29-04-2022 16:46:35 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='PageButtons_SaveButton_Button']]
+29-04-2022 16:46:36 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='PageButtons_SaveButton_Button']
+29-04-2022 16:46:39 INFO [WebFunctionLibrary]: Switch to default content
+29-04-2022 16:46:40 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi5']]
+29-04-2022 16:46:40 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi5']
+29-04-2022 16:46:43 INFO [WebFunctionLibrary]: Hover on element By.xpath: //div[@id='side-menu-wrap']//ul//li[@id='mi5-2']
+29-04-2022 16:46:43 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@id='side-menu-wrap']//ul[@id='sm5-2']//li)[1]]
+29-04-2022 16:46:44 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@id='side-menu-wrap']//ul[@id='sm5-2']//li)[1]
+29-04-2022 16:46:47 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:46:47 INFO [WebFunctionLibrary]: Cleared the text on By.xpath: //input[@id='HTENT']
+29-04-2022 16:46:47 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='HTENT']
+29-04-2022 16:46:50 INFO [WebFunctionLibrary]: Select Drop Down By.xpath: //select[@name='Status']
+29-04-2022 16:46:51 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //input[@class='filter_submit']]
+29-04-2022 16:46:51 INFO [WebFunctionLibrary]: clicked on element By.xpath: //input[@class='filter_submit']
+29-04-2022 16:46:54 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //span[@id='TabStrip_tab4']]
+29-04-2022 16:46:54 INFO [WebFunctionLibrary]: clicked on element By.xpath: //span[@id='TabStrip_tab4']
+29-04-2022 16:46:57 INFO [WebFunctionLibrary]: Switch to default content
+29-04-2022 16:46:58 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi2']/a]
+29-04-2022 16:46:58 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi2']/a
+29-04-2022 16:47:01 INFO [WebFunctionLibrary]: Hover on element By.xpath: //div[@id='side-menu-wrap']//ul//li[@id='mi2-1']/a
+29-04-2022 16:47:02 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@id='side-menu-wrap']//ul[@id='sm2-1']//li)[2]/a]
+29-04-2022 16:47:02 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@id='side-menu-wrap']//ul[@id='sm2-1']//li)[2]/a
+29-04-2022 16:47:05 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:47:05 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdFind_Button']]
+29-04-2022 16:47:07 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdFind_Button']
+29-04-2022 16:47:10 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:10 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:11 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:12 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:13 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:14 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:15 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:16 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:17 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:18 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:19 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:20 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:21 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:21 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:21 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:21 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:21 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:22 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:22 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:22 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:26 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='YsiPageButtons1_SaveButton_Button']]
+29-04-2022 16:47:26 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='YsiPageButtons1_SaveButton_Button']
+29-04-2022 16:47:29 INFO [WebFunctionLibrary]: Cleared the text on By.xpath: //input[@id='AmountDeclared_TextBox']
+29-04-2022 16:47:30 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='AmountDeclared_TextBox']
+29-04-2022 16:47:33 INFO [WebFunctionLibrary]: Cleared the text on By.xpath: //input[@id='CountDeclared_TextBox']
+29-04-2022 16:47:33 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='CountDeclared_TextBox']
+29-04-2022 16:47:36 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='YsiPageButtons1_SaveButton_Button']]
+29-04-2022 16:47:37 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='YsiPageButtons1_SaveButton_Button']
+29-04-2022 16:47:40 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdPost_Button']]
+29-04-2022 16:47:40 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdPost_Button']
+29-04-2022 16:47:43 INFO [WebFunctionLibrary]: Switch to default content
+29-04-2022 16:47:45 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi2']/a]
+29-04-2022 16:47:45 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi2']/a
+29-04-2022 16:47:48 INFO [WebFunctionLibrary]: Hover on element By.xpath: //div[@id='side-menu-wrap']//ul//li[@id='mi2-1']/a
+29-04-2022 16:47:49 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@id='side-menu-wrap']//ul[@id='sm2-1']//li)[2]/a]
+29-04-2022 16:47:50 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@id='side-menu-wrap']//ul[@id='sm2-1']//li)[2]/a
+29-04-2022 16:47:53 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:47:54 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdFind_Button']]
+29-04-2022 16:47:55 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdFind_Button']
+29-04-2022 16:47:58 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:59 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:59 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:59 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:59 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:59 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:47:59 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:00 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:00 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:00 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:00 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:00 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:00 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:01 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:01 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:01 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:01 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:01 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:01 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:02 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:02 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:02 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:02 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:02 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:03 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:03 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:03 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:03 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:03 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:03 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:04 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:04 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:04 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:04 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:04 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:04 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:05 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:05 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:05 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:05 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:05 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:05 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:06 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:06 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:06 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:06 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:06 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:06 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:07 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:07 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:07 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:07 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:07 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:08 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:08 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:08 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:08 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:08 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:08 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:09 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:09 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:09 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:09 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:09 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:09 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:10 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:10 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:48:14 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@id='grdCharge_DataGridContainer']//img)[1]]
+29-04-2022 16:48:15 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@id='grdCharge_DataGridContainer']//img)[1]
+29-04-2022 16:48:18 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //a[@id='PersonId_LookupLink']]
+29-04-2022 16:48:20 INFO [WebFunctionLibrary]: clicked on element By.xpath: //a[@id='PersonId_LookupLink']
+29-04-2022 16:48:23 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:48:23 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //tr[@id='row39']/td/input]
+29-04-2022 16:48:23 INFO [WebFunctionLibrary]: clicked on element By.xpath: //tr[@id='row39']/td/input
+29-04-2022 16:48:27 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdOK_Button']]
+29-04-2022 16:48:27 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdOK_Button']
+29-04-2022 16:48:30 INFO [WebFunctionLibrary]: Switch to default content
+29-04-2022 16:48:30 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:48:30 INFO [WebFunctionLibrary]: Cleared the text on By.xpath: //input[@id='PostMonth_TextBox']
+29-04-2022 16:48:31 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='PostMonth_TextBox']
+29-04-2022 16:48:34 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='grdDetail_DataTable_row0_ChargeCodeIdLookup_ChargeCodeId_Button']]
+29-04-2022 16:48:34 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='grdDetail_DataTable_row0_ChargeCodeIdLookup_ChargeCodeId_Button']
+29-04-2022 16:48:37 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:48:37 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //tr[@id='row9']/td/input]
+29-04-2022 16:48:38 INFO [WebFunctionLibrary]: clicked on element By.xpath: //tr[@id='row9']/td/input
+29-04-2022 16:48:41 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdOK_Button']]
+29-04-2022 16:48:41 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdOK_Button']
+29-04-2022 16:48:44 INFO [WebFunctionLibrary]: Switch to default content
+29-04-2022 16:48:44 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:48:44 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='grdDetail_DataTable_row0_Amount']
+29-04-2022 16:48:48 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //textarea[@id='grdDetail_DataTable_row0_Notes']
+29-04-2022 16:48:51 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdSave_Button']]
+29-04-2022 16:48:52 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdSave_Button']
+29-04-2022 16:48:57 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdSave_Button']
+29-04-2022 16:49:00 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='YsiPageButtons1_SaveButton_Button']
+29-04-2022 16:49:03 INFO [WebFunctionLibrary]: Get Text of By.xpath: //span[@id='AmountEntered_Label']
+29-04-2022 16:49:03 INFO [WebFunctionLibrary]: Cleared the text on By.xpath: //input[@id='AmountDeclared_TextBox']
+29-04-2022 16:49:03 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='AmountDeclared_TextBox']
+29-04-2022 16:49:06 INFO [WebFunctionLibrary]: Get Text of By.xpath: //span[@id='CountEntered_Label']
+29-04-2022 16:49:07 INFO [WebFunctionLibrary]: Cleared the text on By.xpath: //input[@id='CountDeclared_TextBox']
+29-04-2022 16:49:07 INFO [WebFunctionLibrary]: Enter Text on By.xpath: //input[@id='CountDeclared_TextBox']
+29-04-2022 16:49:10 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='YsiPageButtons1_SaveButton_Button']
+29-04-2022 16:49:13 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdPost_Button']]
+29-04-2022 16:49:14 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdPost_Button']
+29-04-2022 16:49:17 INFO [WebFunctionLibrary]: Switch to default content
+29-04-2022 16:49:18 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi2']/a]
+29-04-2022 16:49:18 INFO [WebFunctionLibrary]: clicked on element By.xpath: //div[@id='side-menu-wrap']/ul/li[@id='mi2']/a
+29-04-2022 16:49:21 INFO [WebFunctionLibrary]: Hover on element By.xpath: //div[@id='side-menu-wrap']//ul//li[@id='mi2-1']/a
+29-04-2022 16:49:22 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: (//div[@id='side-menu-wrap']//ul[@id='sm2-1']//li)[2]/a]
+29-04-2022 16:49:22 INFO [WebFunctionLibrary]: clicked on element By.xpath: (//div[@id='side-menu-wrap']//ul[@id='sm2-1']//li)[2]/a
+29-04-2022 16:49:25 INFO [WebFunctionLibrary]: Switched to frame by element
+29-04-2022 16:49:26 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdFind_Button']]
+29-04-2022 16:49:27 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdFind_Button']
+29-04-2022 16:49:30 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:31 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:31 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:31 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:31 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:31 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:31 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:32 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:32 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:32 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:32 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:32 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:33 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:33 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:33 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:33 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:33 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:33 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:34 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:34 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:34 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:34 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:34 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:34 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:35 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:35 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:35 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:35 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:35 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:36 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:36 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:36 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:36 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:36 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:36 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:37 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:37 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:37 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:37 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:37 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:37 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:38 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:38 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:38 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:38 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:38 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:38 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:39 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:39 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:39 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:39 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:39 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:39 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:40 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:40 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:40 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:40 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:40 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:40 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:41 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:41 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:41 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:41 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:41 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:42 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:42 INFO [WebFunctionLibrary]: compare Batch ID
+29-04-2022 16:49:46 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //tr[@id='grdCharge_DataTable_row0']//button]
+29-04-2022 16:49:47 INFO [WebFunctionLibrary]: clicked on element By.xpath: //tr[@id='grdCharge_DataTable_row0']//button
+29-04-2022 16:49:50 INFO [WebFunctionLibrary]: Move to element [[ChromeDriver: chrome on WINDOWS (d3fbcd4608cb70c5a5f5b20c0c051a92)] -> xpath: //button[@id='cmdDelete_Button']]
+29-04-2022 16:49:50 INFO [WebFunctionLibrary]: clicked on element By.xpath: //button[@id='cmdDelete_Button']

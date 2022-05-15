@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WebSuite" thread-count="1" parallel="tests">
+	<test name="WebTest">
+		<classes>
+			<class name="testScripts.web.ARC_Login" />
+			<class name="testScripts.web.ARC_AddChargeBatch" />
+			<class name="testScripts.web.ARC_EditChargeBatch" />
+		</classes>
+	</test>
+</suite>
